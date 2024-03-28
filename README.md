@@ -59,4 +59,3 @@ Die Fibonacci-Reihe ist eine Folge von Zahlen, bei der jede Zahl die Summe der b
 Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Weitere Details finden Sie in der `LICENSE`-Datei.
 
 Viel Spaß beim Nutzen des Fibonacci-Modulor-Rechners!
-```
