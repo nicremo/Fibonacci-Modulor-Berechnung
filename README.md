@@ -60,4 +60,3 @@ Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Weitere Details finden 
 
 Viel Spaß beim Nutzen des Fibonacci-Modulor-Rechners!
 ```
-Kopieren Sie diesen Inhalt in eine `README.md`-Datei in Ihrem GitHub-Repository, um eine ansprechende und informative Beschreibung für Ihr Projekt zu haben.
